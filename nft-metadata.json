@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Location",
+      "value" : "Bagru"
+    }, {
+      "trait_type" : "Test ID",
+      "value" : "141-323"
+    } ],
+    "description" : "Mint dat NFT dere",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmaWYqwFsnAeRsdtSvZpQcNB1ybrKuj9T9FFHyPJeo5Q5v",
+    "name" : "Test Mint 1"
+}
